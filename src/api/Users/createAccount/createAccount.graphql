@@ -1,0 +1,6 @@
+type Mutation {
+    createAccount(userName:String firstName:String! lastName:String bio:String email:String!):User!
+}
+type Query {
+    justAkward: String
+}
