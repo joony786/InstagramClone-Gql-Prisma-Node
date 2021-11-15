@@ -9,6 +9,7 @@ type User {
    comments:[Comment!]
    bio:String
    email:String! @unique
+   loginSecret:String
 
 
 }

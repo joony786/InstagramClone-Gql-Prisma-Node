@@ -9,8 +9,8 @@ type User {
     comments:[Comment!]
     bio:String
     email:String!
-
-
+    loginSecret:String
+    confirmSecret:String
 }
 type Post {
     id: ID!

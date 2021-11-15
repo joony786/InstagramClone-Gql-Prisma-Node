@@ -1,5 +1,8 @@
 # Instagram-Clone-Gql-Prisma-Node
 Things to do
+- [x] create an account
+- [x] get a secret 
+- [] verify the secret(Login)
 - [] login
 - [] Like/ unlike Photo
 - [] comment on photo
@@ -9,7 +12,6 @@ Things to do
 - [] follow/ unfollow user
 - [] see the full photo
 - [] edit the profile
-- [] create an account
 - [] upload a photo
 - [] edit the photo (delete)
 -[] see the feed
